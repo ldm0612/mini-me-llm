@@ -1,0 +1,15 @@
+numpy==2.2.1
+pandas
+python-docx
+langchain>=0.1.0
+chromadb
+openai
+python-dotenv
+ipykernel
+tiktoken
+langchain_community
+langchain_openai
+fastapi
+uvicorn
+mangum
+pysqlite3-binary

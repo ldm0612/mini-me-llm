@@ -1,0 +1,28 @@
+# === Build Artifacts ===
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# === Infra/CDK ===
+cdk.out/
+rag-cdk-infra/
+*.ts
+*.tsx
+*.js
+*.map
+*.json
+*.lock
+node_modules/
+
+# === Local Dev ===
+.env
+notebooks/
+.vscode/
+.idea/
+.DS_Store
+
+# === OS / misc ===
+*.swp
+*.bak
+*.tmp

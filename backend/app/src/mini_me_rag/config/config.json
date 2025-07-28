@@ -1,0 +1,5 @@
+{
+    "doc_data_path": "dmini_me_rag/ata/bq_questions.docx", 
+    "json_data_path": "mini_me_rag/data/bq_questions.json",
+    "vector_store_path": "mini_me_rag/data/chroma"
+}
