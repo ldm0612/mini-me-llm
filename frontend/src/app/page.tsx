@@ -92,7 +92,7 @@ export default function Home() {
       timestamp: new Date().toISOString()
     };
 
-    let updatedConversation = {
+    const updatedConversation = {
       ...activeConversation,
       messages: [...activeConversation.messages, userMessage]
     };
